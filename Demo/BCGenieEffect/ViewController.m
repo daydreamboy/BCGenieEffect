@@ -93,6 +93,7 @@
     [sender setTranslation:CGPointMake(0, 0) inView:self.view];
 }
 
+/*
 - (void)viewDidUnload
 {
     [self setDraggedView:nil];
@@ -101,4 +102,6 @@
     [self setBoundingBox:nil];
     [super viewDidUnload];
 }
+ */
+
 @end
